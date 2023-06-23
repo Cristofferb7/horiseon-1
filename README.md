@@ -15,4 +15,4 @@ This is a rework of a code that was already built but the class had to make it m
 
 ## Screenshot
 
-"Screenshot 2023-06-23 151734.png"
+![alt text]("C:\Users\crist\OneDrive\Imágenes\Capturas de pantalla\Screenshot 2023-06-23 151734.png")
