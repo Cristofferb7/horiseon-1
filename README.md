@@ -15,4 +15,4 @@ This is a rework of a code that was already built but the class had to make it m
 
 ## Screenshot
 
-![Screenshot](./02-Challenge/Assets/Screenshot%202023-06-23%20151734.png)
+![Screenshot](./02-Challenge/Assets/cristofferb7.github.io_horiseon-1_.png)
